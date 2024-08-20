@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Lets create some nice apps.
 C#
 😄
 
